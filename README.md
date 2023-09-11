@@ -1,11 +1,13 @@
 <h1>Alícia Nishiyama</h1>
-Hello! 👋
 
-🙆🏻‍♀️  I'm a nature lover and fascinated by the natural sciences. I'm a web developer, studied chemistry, and I'm currently pursuing a degree in electrical engineering. I'm always eager to learn about the universe and the world we inhabit, and I believe that solutions to the major problems come and will come through technological development.
+<div  align="left">
+<p>Hello! 👋</p>
+<p>🙆🏻‍♀️ I'm a nature lover and fascinated by the natural sciences. I'm a web developer, studied chemistry, and I'm currently pursuing a degree in electrical engineering. I'm always eager to learn about the universe and the world we inhabit, and I believe that solutions to the major problems come and will come through technological development.</p>
 
-🏝️ My hobbies are exploring new places and cultures, boats, fishing, and hiking. When it's raining and I can't go out, I enjoy spending time playing Valorant with my friends.
+<p>🏝️ My hobbies are exploring new places and cultures, boats, fishing, and hiking. When it's raining and I can't go out, I enjoy spending time playing Valorant with my friends.</p>
 
-👩🏻‍💻 Next steps: study Python, Angular, GraphQL, Storybook, Chakra UI, and Tailwind CSS.
+<p>👩🏻‍💻 Next steps: study Python, Angular, GraphQL, Storybook, Chakra UI, and Tailwind CSS.</p>
+</div>
 
 <div align="center">
 <h1>Languages and Tools</h1>
@@ -72,10 +74,13 @@ Hello! 👋
 ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
 ![GoogleMeet](https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=Nishiyama13" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=Nishiyama13" height="150" alt="languages graph"  />
-</div>
+<details>
+  <summary><h1>GitHub Stats</h1></summary>
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=Nishiyama13" height="150" alt="stats graph"  />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=Nishiyama13" height="150" alt="languages graph"  />
+  </div>
+</details>
 
 <div align="center">
 <h1> Talk with me</h1>
