@@ -6,7 +6,8 @@
 
 <p>🏝️ My hobbies are exploring new places and cultures, boats, fishing, and hiking. When it's raining and I can't go out, I enjoy spending time playing Valorant with my friends.</p>
 
-<p>👩🏻‍💻 Next steps: study Python, Angular, GraphQL, Storybook, Chakra UI, and Tailwind CSS.</p>
+<p>👩🏻‍💻 Currently studying: C language applied to the ESP32 C Mini microcontroller </p>
+<p>Next steps: study Python, Angular, GraphQL, Storybook, Chakra UI, and Tailwind CSS.</p>
 </div>
 
 <div align="center">
